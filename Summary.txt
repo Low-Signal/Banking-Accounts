@@ -1,0 +1,29 @@
+Banking Summary
+---------------------
+
+Saving Accounts
+
+Holder's Name                                Initial Balance   Projected Balance
+--------------------------------------------------------------------------------
+Emily-Grace Alfaro                                    900.89              901.79
+Milhouse van Houten                                    45.80               81.98
+Maya Polar Bear                                        60.72              534.34
+
+Checking Accounts
+
+Holder's Name                                Initial Balance   Projected Balance
+--------------------------------------------------------------------------------
+Arthur Morgan                                          89.00               89.10
+Maya Polar Bear                                        40.90               41.00
+
+Investment Accounts
+
+Holder's Name                                Initial Balance   Projected Balance
+--------------------------------------------------------------------------------
+Marvin Dipwart                                        280.00              298.00
+
+
+Overall Account distribution
+Savings:        3   -     506.04
+Checking        2   -      65.05
+Investment      1   -     298.00
